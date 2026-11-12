@@ -1,0 +1,21 @@
+body{
+  background-color: white;
+  font-family: sanse-serif;
+}
+
+.highlight{
+  background-color: yellow;
+}
+#displayArea{
+  margin-top: 20px;
+  padding: 10px;
+}
+
+table{
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+th, td{
+  paddding: 5px;
+} 
