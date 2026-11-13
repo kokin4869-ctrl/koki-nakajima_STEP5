@@ -13,7 +13,7 @@ displayBtn.addEventListener("click", function() {
     alert("\u5165\u529b\u5024\u304c\u7a7a\u3067\u3059\u3002");
     return;
 }
-    document.getElementById("displayArea").textContent = text;
+    document.getElementById("displayText").textContent = text;
     document.getElementById("displayArea").classList.toggle("highlight");
 
 });
